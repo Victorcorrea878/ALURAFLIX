@@ -1,0 +1,78 @@
+<body>
+
+    <header>ALURAFLIX</header>
+    
+    <h1>ATRAVÉS DO ARANHAVERSO SUPERA O PRIMEIRO FILME?</h1>
+    <p>#homem-aranha</p>
+    
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gt_fAE1Eg2Q?si=c93nZtO1DTNYueO4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+    <div class="filme">
+        <h3>O Poderoso Chefão</h3>
+    
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/sY1S34973zA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>O Senhor dos Anéis: A Sociedade do Anel</h3>
+       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/V75dMMIW2B4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Gladiador</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/Ard6RITZSO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Matrix</h3>
+       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/vKQi3bBA1y8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Forrest Gump: O Contador de Histórias</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/bLvqoHBptjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>O Rei Leão</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/4sj1MT05lAA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Inception</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/YoHD9XEInc0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Vingadores: Ultimato</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/t5l1Dytc9cA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Parasita</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5xH0HfJHsaY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Avatar</h3>
+        
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/5PSNL1qE6VY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+    <div class="filme">
+        <h3>Deadpool</h3>
+       
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/ONH6aY8M7IU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </div>
+
+</body>
+
+
